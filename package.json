@@ -1,0 +1,42 @@
+{
+    "name": "com.kcchen.sharingto",
+    "version": "0.0.2",
+    "description": "Share text, images (and other files), or a link via the native sharing widget of your device. Android is fully supported, as well as iOS 6 and up. WP8 has somewhat limited support.",
+    "types": "./types/index.d.ts",
+    "cordova": {
+        "id": "com.kcchen.sharingto",
+        "platforms": [
+            "ios",
+            "android",
+            "wp8",
+            "windows",
+            "web"
+        ]
+    },
+    "keywords": [
+        "Social",
+        "Share",
+        "Twitter",
+        "Facebook",
+        "Email",
+        "SMS",
+        "WhatsApp",
+        "Tumblr",
+        "Pocket",
+        "LinkedIn",
+        "cordova",
+        "WebShare",
+        "ecosystem:cordova",
+        "cordova-ios",
+        "cordova-android",
+        "cordova-windows"
+    ],
+    "engines": [
+        {
+            "name": "cordova",
+            "version": ">=3.0.0"
+        }
+    ],
+    "author": "KC Chen",
+    "license": "MIT"
+}
